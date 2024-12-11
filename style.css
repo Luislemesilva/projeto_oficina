@@ -115,7 +115,7 @@ header nav a{
 }
 
 
-#clinica{
+#oficina{
     display: flex;
     align-items: center;
     gap: 60px;
@@ -124,7 +124,7 @@ header nav a{
 }
 
 
-#clinica li{
+#oficina li{
     margin-bottom: 16px;
     margin-left: 32px;
 
@@ -189,7 +189,7 @@ h2{
 
 
 .duvida h3{
-    border: 2px solid #FF725E;
+    border: 2px solid #80C037;
     border-radius: 8px;
     cursor: pointer;
     padding: 24px;
@@ -207,9 +207,9 @@ h2{
 
 
 .duvida .paragrafo{
-    border-right: 1px solid #FF725E;
-    border-bottom: 1px solid #FF725E;
-    border-left: 1PX solid #FF725E;
+    border-right: 1px solid #80C037;
+    border-bottom: 1px solid #80C037;
+    border-left: 1PX solid #80C037;
     border-radius: 0  0  8px  8px;
     margin-top: -8px;
     padding: 0 24px;
