@@ -3,8 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
-    
-    
 }
 
 
@@ -14,7 +12,7 @@ body{
 
 
 header{
-    background-color: #FF9A6C;
+    background-color: #4A701C;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -67,19 +65,17 @@ header nav a{
 
 
 .botao{
-    background-color: #FF725E;
+    background-color: #80C037;
     border-radius: 6px;
     padding: 16px 20px;
     color: white;
     text-decoration: none;
     margin-left: 62px;
-    
-
 }
 
 
 .botao2{
-    background-color: #FF725E;
+    background-color: #80C037;
     color: white;
     padding: 16px 20px;
     border-radius: 8px;
@@ -115,7 +111,7 @@ header nav a{
     left: 0;
     width: 100%;
     z-index: -10;
-
+    color: #263138;
 }
 
 
